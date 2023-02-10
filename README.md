@@ -1,4 +1,4 @@
-## Speech To Text File ~ [GHW 2023(FEB)](https://ghw.mlh.io)
+## TalkText ~ [GHW 2023(FEB)](https://ghw.mlh.io)
 > [Demo Video]()
 
 A simple Python project which uses `speech_recognition` and `datetime` library. The script simply listens for speech and stores it in a file.
